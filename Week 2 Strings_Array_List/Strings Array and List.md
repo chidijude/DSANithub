@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Strings, Array and List</h1>
 <sub>Author:
-<a href="www.linkedin.com/in/chidi-jude" >Chidi Jude</a><br>
+<a href="https://www.linkedin.com/in/chidi-jude" target="_blank">Chidi Jude</a><br>
 </sub>
 
 </div>

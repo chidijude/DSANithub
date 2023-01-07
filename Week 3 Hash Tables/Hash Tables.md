@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hash Tables</h1>
 <sub>Author:
-<a href="www.linkedin.com/in/chidi-jude" target="_blank">Chidi Jude</a><br>
+<a href="https://www.linkedin.com/in/chidi-jude" target="_blank">Chidi Jude</a><br>
 </sub>
 
 </div>
